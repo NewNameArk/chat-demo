@@ -1,2 +1,24 @@
-# chat-demo
-类似微信聊天的demo项目，涉及技术点：布局与定位、定位到未读消息、获取音频语音
+# message-demo
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
